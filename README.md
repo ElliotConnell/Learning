@@ -2,7 +2,9 @@
 
 > space for learning
 
-create new repository on github
+create new repository on github. 
+
+follow instructions for authentication with SSH key. instructions are from github not SSH
 
 ## git commands
 
